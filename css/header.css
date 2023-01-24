@@ -21,6 +21,17 @@ header {
   align-items: center;
 }
 
+nav {
+  position: sticky;
+  top: 0;
+  left: 0;
+  background-image: linear-gradient(
+    to right,
+    var(--black) 50%,
+    var(--blue) 50%
+  );
+}
+
 nav .button-box {
   display: flex;
   justify-content: space-between;
