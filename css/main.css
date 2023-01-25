@@ -1,6 +1,7 @@
 @import url(./common.css);
 @import url(./header.css);
 @import url(./responsive.css);
+@import url(./loading.css);
 
 @font-face {
   font-family: Orbitron-Regular;
